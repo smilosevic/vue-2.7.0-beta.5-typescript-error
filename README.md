@@ -1,4 +1,4 @@
-# type
+# Vue 2.7.0-beta.5 typescript error
 
 ## Project setup
 ```
